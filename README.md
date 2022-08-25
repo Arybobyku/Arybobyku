@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Arybobyku
 - 👀 I’m interested in Mobile Android 
-- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aryboby1@gmail.com
 
